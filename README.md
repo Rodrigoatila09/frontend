@@ -1,29 +1,30 @@
-                                                             🎓 Student Dashboard Landing Page 🎓
+🎓 Student Dashboard Landing Page 🎓
 Este é um projeto de Painel de Estudante que oferece uma interface simples e organizada para alunos acompanharem seu desempenho acadêmico, dicas de estudo e tarefas pendentes. O objetivo principal é proporcionar uma experiência acessível e eficiente para estudantes gerenciarem informações importantes em um único lugar.
 
+🚀 Problema
+Estudantes frequentemente enfrentam dificuldades em gerenciar múltiplas responsabilidades acadêmicas, como:
 
-
-
-
-                                                                        🚀 Problema
-Estudantes frequentemente enfrentam dificuldades em gerenciar múltiplas responsabilidades acadêmicas, como: 
 Manter o controle do desempenho acadêmico em diferentes disciplinas e semestres.
 Organizar tarefas com prazos variados.
 Encontrar dicas de estudo eficazes para melhorar a retenção de conteúdo e produtividade.
 Esses desafios podem levar à desorganização e perda de foco, impactando negativamente no desempenho dos alunos.
 
-                                                                      🌟 Funcionalidades 
-Selecionar Estudante: O painel permite selecionar o ID do estudante e exibe os dados específicos do aluno selecionado.    
-Visualizar Desempenho: Mostra o desempenho acadêmico por disciplina e semestre, ajudando a monitorar o progresso.
-Dicas de Estudo: Oferece dicas úteis para melhorar a produtividade e os hábitos de estudo.
-Gerenciar Tarefas: Lista as tarefas pendentes com suas respectivas datas de entrega, facilitando o controle dos prazos.
+💡 Solução
+Desenvolvemos um Painel de Estudante que:
 
+Exibe dados de desempenho acadêmico, permitindo que os estudantes visualizem suas notas e progresso de forma clara.
+Lista as tarefas pendentes com suas datas de entrega, ajudando na organização das atividades.
+Fornece dicas de estudo personalizadas para melhorar os hábitos de aprendizado e ajudar a otimizar o tempo dos alunos.
+Essa solução ajuda os estudantes a:
 
-                                                                    📈 Como Essa Solução Pode Ajudar
-Organização Eficiente: Reúne várias funcionalidades em uma interface simples, permitindo que os alunos tenham fácil acesso a dados importantes.
-Produtividade: Com uma visão clara das tarefas e prazos, os alunos podem planejar melhor seu tempo e manter o foco.
-Melhora no Desempenho: As dicas de estudo personalizadas ajudam a adotar práticas mais eficazes, aumentando a retenção de conteúdo e os resultados nas provas.
-
-
-
-KEEP MOVING FORWARD 🚀
+Manter uma visão centralizada de suas responsabilidades.
+Gerenciar melhor suas tarefas e prazos.
+Adotar práticas de estudo mais eficientes.
+🛠 Tecnologias Utilizadas
+Frontend
+React: Biblioteca JavaScript para criar interfaces de usuário dinâmicas e componentizadas.
+Axios: Cliente HTTP usado para consumir a API backend e buscar dados de desempenho, dicas e tarefas.
+CSS (Customizado): Design moderno e responsivo para garantir uma boa experiência do usuário em diferentes dispositivos.
+Backend
+Node.js com Express: Framework de backend leve usado para criar uma API RESTful que retorna os dados de desempenho, dicas de estudo e tarefas.
+Supabase (Banco de Dados): Utilizado para armazenar e gerenciar os dados do estudante de forma simples e escalável.
