@@ -30,5 +30,5 @@ Esses desafios podem levar à desorganização e perda de foco, impactando negat
 
 
 
-
+                                                                                                                                                  KEEP MOVING FORWARD 🚀
 
